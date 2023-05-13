@@ -1,0 +1,16 @@
+# version: '3.8'
+# services:
+#   server:
+#     build: ./sever
+#     container_name: devServer
+#     ports: 3001
+#     volume: server/node_modules
+
+#   tester:
+#     build: ./tester
+#     container_name: tester_C
+#     ports: '3000:3000'
+#       volumes:
+#       - ./tester/node_modules
+#       - ./tester:/app
+
