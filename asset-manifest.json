@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SpotifyPracticeTool/static/css/main.f832a5fa.css",
+    "main.js": "/SpotifyPracticeTool/static/js/main.22c3f291.js",
+    "static/media/spotLogo2.png": "/SpotifyPracticeTool/static/media/spotLogo2.d7c133b044286f870f22.png",
+    "static/media/userImage.png": "/SpotifyPracticeTool/static/media/userImage.a6143582309785dca610.png",
+    "index.html": "/SpotifyPracticeTool/index.html",
+    "main.f832a5fa.css.map": "/SpotifyPracticeTool/static/css/main.f832a5fa.css.map",
+    "main.22c3f291.js.map": "/SpotifyPracticeTool/static/js/main.22c3f291.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f832a5fa.css",
+    "static/js/main.22c3f291.js"
+  ]
+}
